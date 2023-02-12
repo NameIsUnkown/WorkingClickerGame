@@ -3,7 +3,7 @@ const clickDisplay = document.querySelector(".click-counter");
 
 const clickGenerators = document.querySelectorAll(".click-generator");
 
-let clickCounter = 200;
+let clickCounter = 0;
 let clickMultiplier = 1;
 
 window.onload = function () {
