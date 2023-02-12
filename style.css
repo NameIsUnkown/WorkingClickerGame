@@ -90,7 +90,7 @@ main {
 
 .click-click {
     opacity: 1;
-    background: url(/Pointer.png);
+    background: url(/ClickerGame/Pointer.png);
     background-size: 100px, 100px;
     background-repeat: no-repeat;
     background-position-x: 25px;
@@ -99,7 +99,7 @@ main {
 }
 
 .click-click:hover {
-    background: url(/blackPointer.png);
+    background: url(/ClickerGame/blackPointer.png);
     background-color: black;
     background-size: 100px, 100px;
     background-repeat: no-repeat;
